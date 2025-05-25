@@ -1,0 +1,14 @@
+# Exclude folders
+__pycache__/
+AI_model_brain/
+venv_*/
+BraTS2020_*/
+dist/
+logs/
+temp/
+output/
+# Ignore all folders that start with brat_ at any level
+**/brats_*/
+brats_*/
+.spyproject/
+.DS_Store
